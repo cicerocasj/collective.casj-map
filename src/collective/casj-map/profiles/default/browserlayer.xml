@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<layers>
+  <layer
+      name="collective.casj-map"
+      interface="collective.casj-map.interfaces.ICollectiveCasj-MapLayer"
+      />
+</layers>
